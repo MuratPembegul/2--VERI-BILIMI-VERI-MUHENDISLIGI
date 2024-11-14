@@ -1,4 +1,4 @@
-# VERİ-BİLİMİ-VERİ-MUHENDİSLİĞİ
+# VERİ-BİLİMİ-VERİ-MÜHENDİSLİĞİ
 # Veri Mühendisliği
 Veri mühendisliği, büyük veri ve analiz projeleri için veri altyapısını kurma, yönetme ve optimize etme sürecidir. Veri mühendisleri, veri kaynaklarını düzenleyip yapılandırarak verilerin analistler ve veri bilimciler tarafından kullanılabilir olmasını sağlar. Bu süreç, veri entegrasyonu, veri temizleme, veri depolama ve veri işleme gibi önemli adımları içerir.
 
