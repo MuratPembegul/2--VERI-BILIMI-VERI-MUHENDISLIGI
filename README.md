@@ -3,7 +3,7 @@
 Veri mühendisliği, büyük veri ve analiz projeleri için veri altyapısını kurma, yönetme ve optimize etme sürecidir. Veri mühendisleri, veri kaynaklarını düzenleyip yapılandırarak verilerin analistler ve veri bilimciler tarafından kullanılabilir olmasını sağlar. Bu süreç, veri entegrasyonu, veri temizleme, veri depolama ve veri işleme gibi önemli adımları içerir.
 
 # Veri Mühendisliği Süreci
-Veri Toplama (Data Collection):
+# Veri Toplama (Data Collection):
 
 Farklı kaynaklardan (örneğin, veritabanları, API'ler, IoT cihazları) gelen verilerin toplanması sürecidir. Veri mühendisleri, verilerin güvenilir ve erişilebilir olmasını sağlamak için bu kaynaklarla bağlantı kurar.
 Veri Temizleme ve Dönüştürme (Data Cleaning and Transformation):
