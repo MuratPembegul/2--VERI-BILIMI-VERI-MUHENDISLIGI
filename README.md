@@ -43,3 +43,5 @@ Veri altyapısını ölçeklendirme ve performans optimizasyonu yapma
 Veri bilimcilere analiz süreçlerinde destek sağlama
 Veri mühendisliği, veri bilimindeki diğer alanlarla birlikte çalışarak verilerin değer yaratmasını sağlar. İyi bir veri mühendisliği süreci, işletmelerin veri tabanlı kararlar almasına katkı sağlar ve veri analiz süreçlerinin verimli olmasını sağlar.
 
+# Güncelleme: Veri Tabanı İşlemleri ve Örnek Database Dosyası eklendi.
+
