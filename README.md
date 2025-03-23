@@ -48,5 +48,6 @@ Veri mühendisliği, veri bilimindeki diğer alanlarla birlikte çalışarak ver
 2-) Veri Ekleme 
 3-) Veri tabanı işlemleri Örnek veritabanı
 4-) Veri sorgulama
+# Veri Tabanı İşlemleri Tamamlandı.
 
 
