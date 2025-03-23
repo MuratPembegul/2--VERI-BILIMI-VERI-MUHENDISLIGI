@@ -45,5 +45,8 @@ Veri mühendisliği, veri bilimindeki diğer alanlarla birlikte çalışarak ver
 
 # 1-) Güncelleme: Veri Tabanı İşlemleri ve Eklenen Kodlar
 1-) Veri tabanı ve tablo oluşturma
+2-) Veri Ekleme 
+3-) Veri tabanı işlemleri Örnek veritabanı
+4-) Veri sorgulama
 
 
