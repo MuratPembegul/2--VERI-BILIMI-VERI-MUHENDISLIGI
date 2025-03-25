@@ -51,5 +51,6 @@ Veri mühendisliği, veri bilimindeki diğer alanlarla birlikte çalışarak ver
 # Veri Tabanı İşlemleri Tamamlandı.
 # 2-) Veri Toplama Kodları Eklendi.
 # 3-) Veri Temizleme Kodları Eklendi.
+# 4-) Veri Dönüştürme Kodları Eklendi.
 
 
