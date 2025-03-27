@@ -55,5 +55,6 @@ Veri mühendisliği, veri bilimindeki diğer alanlarla birlikte çalışarak ver
 1-) Kategorik Değerleri Sayısal Hale Çevirme (Label Encoding)
 2-) One-Hot Encoding (Kategorik Değerleri Ayrı Sütunlara Ayırma)
 # Veri Depolama kodları Eklendi.
+# Veri Akışı ( Data Pipeline) Kodları Eklendi.
 
 
