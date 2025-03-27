@@ -52,5 +52,8 @@ Veri mühendisliği, veri bilimindeki diğer alanlarla birlikte çalışarak ver
 # 2-) Veri Toplama Kodları Eklendi.
 # 3-) Veri Temizleme Kodları Eklendi.
 # 4-) Veri Dönüştürme Kodları Eklendi.
+1-) Kategorik Değerleri Sayısal Hale Çevirme (Label Encoding)
+2-) One-Hot Encoding (Kategorik Değerleri Ayrı Sütunlara Ayırma)
+# Veri Depolama Kodları Eklendi.
 
 
