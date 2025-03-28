@@ -56,5 +56,6 @@ Veri mühendisliği, veri bilimindeki diğer alanlarla birlikte çalışarak ver
 2-) One-Hot Encoding (Kategorik Değerleri Ayrı Sütunlara Ayırma)
 # Veri Depolama kodları Eklendi.
 # Veri Akışı ( Data Pipeline) Kodları Eklendi.
+# Büyük Veri İşleme Kodları Eklendi.
 
 
