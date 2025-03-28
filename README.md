@@ -57,5 +57,6 @@ Veri mühendisliği, veri bilimindeki diğer alanlarla birlikte çalışarak ver
 # Veri Depolama kodları Eklendi.
 # Veri Akışı ( Data Pipeline) Kodları Eklendi.
 # Büyük Veri İşleme Kodları Eklendi.
+# Gerçek zamanlı Veri İşleme Kodları Eklendi.
 
 
